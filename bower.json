@@ -10,6 +10,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "purescript-prelude": "^0.1.5"
+    "purescript-prelude": "^1.0.0"
   }
 }

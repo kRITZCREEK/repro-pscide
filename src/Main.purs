@@ -1,8 +1,8 @@
 module Main where
 
 import First (init)
-import Prelude (return, unit)
+import Prelude (pure, unit)
 
 main = do
   let foobar = init
-  return unit
+  pure unit
